@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-pdf-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troy-johnson/puppeteer-pdf-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troy-johnson/puppeteer-pdf-example/issues"
+  },
+  "homepage": "https://github.com/troy-johnson/puppeteer-pdf-example#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
